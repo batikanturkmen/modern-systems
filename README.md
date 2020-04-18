@@ -20,9 +20,6 @@
 
 ## Logging, Tracing & Metrics
 
-- **[gRPC](https://grpc.io/):** 
-A high-performance RPC framework.
-
 - **[ELK](https://www.elastic.co/what-is/elk-stack):** 
 Elasticsearch, Logstash, and Kibana. Data search, transform and visualization stack.
 
@@ -34,7 +31,7 @@ End-to-end distributed tracing
 - **[Opentelemetry](https://opentelemetry.io/):** 
 Services to capture distributed traces and metrics from your application.
 
-- **[Prometheus](https://prometheus.io/)** / [Grafana](https://grafana.com/): 
+- **[Prometheus](https://prometheus.io/) / [Grafana](https://grafana.com/):**
 Time series based monitoring solutions.
 
 ## Docker & Kubernetes
@@ -123,6 +120,9 @@ Building bigger, faster and more reliable websites.
 
 - **[Microservices Demo](https://github.com/GoogleCloudPlatform/microservices-demo):** 
 Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
+
+- **[gRPC](https://grpc.io/):** 
+A high-performance RPC framework.
 
 - **[Google Cloud Code](https://cloud.google.com/code):**
 provides IDE support for the full development cycle of Kubernetes applications.
