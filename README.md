@@ -46,6 +46,9 @@ Time series based monitoring solutions.
 
 - **[kubectx](https://github.com/ahmetb/kubectx/):** Faster way to switch between clusters and namespaces in kubectl.
 
+- **[Health Check](https://ahmet.im/blog/advanced-kubernetes-health-checks/):** Explaining health check patterns without kubernetes-native probes.
+
+
 #### Service Mesh
 
 - **[Istio](https://istio.io/):** Service mesh solution that lets you connect, monitor, and secure microservices.
