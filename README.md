@@ -148,5 +148,8 @@ Infrastructure as Code solution to provision and manage any cloud, infrastructur
 - **[Semantic Versioning](https://semver.org/):**
 Simple set of rules and requirements that dictate how version numbers are assigned and incremented.
 
+- **[Conventional Commits](https://www.conventionalcommits.org/):**
+This convention dovetails with SemVer, by describing the features, fixes, and breaking changes made in commit messages.
+
 - **[Configuration Management Database](https://en.wikipedia.org/wiki/Configuration_management_database):**
 CMDBs are used to keep track of the state of assets such as products, systems, software, facilities, people as they exist at specific points in time, and the relationship between all assets.
