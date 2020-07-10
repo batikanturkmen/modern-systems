@@ -153,3 +153,6 @@ This convention dovetails with SemVer, by describing the features, fixes, and br
 
 - **[Configuration Management Database](https://en.wikipedia.org/wiki/Configuration_management_database):**
 CMDBs are used to keep track of the state of assets such as products, systems, software, facilities, people as they exist at specific points in time, and the relationship between all assets.
+
+- **[Database Migration](https://flywaydb.org/):**
+Flyway updates a database from one version to a next using migrations. 
